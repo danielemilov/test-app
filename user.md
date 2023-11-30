@@ -1,11 +1,11 @@
 **MY PROFILE**
 ## DETAILS :
-**NAME** DANIEL EMILOV 
-**AGE** 26  
-**NATIONALITY** Bulgarian 
-**JOB** Content Moderator
+**NAME** Dimo Velev 
+**AGE** 20  
+**NATIONALITY** Hungarian 
+**JOB** Manager
 
 ## Things that I own : 
-1. A car 
-2. A laptop
-3. An apartment
+1. 100K 
+2. A Lambo
+3. A Rolex
