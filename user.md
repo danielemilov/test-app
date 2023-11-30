@@ -1,6 +1,6 @@
 **MY PROFILE**
 ## DETAILS :
-**NAME** Dimo Velev 
+**NAME** Dimo Velev VELEV
 **AGE** 20  
 **NATIONALITY** Hungarian 
 **JOB** Manager
