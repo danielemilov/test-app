@@ -1,5 +1,11 @@
-MY PROFILE
+**MY PROFILE**
+## DETAILS :
+**NAME** DANIEL EMILOV 
+**AGE** 26  
+**NATIONALITY** Bulgarian 
+**JOB** Content Moderator
 
-DETAILS : DANIEL EMILOV, 26 , Bulgarian Content Moderator.
-
-Things that i own : A car, a laptop and an apartment.
+## Things that I own : 
+1. A car 
+2. A laptop
+3. An apartment
