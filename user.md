@@ -1,6 +1,6 @@
 **MY PROFILE !! **
 ## DETAILS :
-**NAME** Dimo Velev VELEV
+**NAME** Christian Johnson
 **AGE** 20  
 **NATIONALITY** Hungarian 
 **JOB** Manager
@@ -10,4 +10,3 @@
 1. 100K 
 2. A Lambo
 3. A Rolex
-
